@@ -1,0 +1,481 @@
+week;rank;title;singer;writer;album;isMV
+35;1;buon khong em;dat g;dat g;;false
+35;2;duyen minh lo;huong tram;tu dua;duyen minh lo single;true
+35;3;tan cung noi nho;will;andiez;tan cung noi nho single;true
+35;4;gui anh va co ay;huong tram;nguyen hong thuan;gui anh va co ay single;false
+35;5;dung quen ten anh;hoa vinh;dat g;;false
+35;6;sai nguoi sai thoi diem;thanh hung;thanh hung;;false
+35;7;dung nhu thoi quen;jaykii sara luu;duong khac linhhoang huy longjaykii;;false
+35;8;yeu roi gao nep gao te ost;tino;tang nhat tue;;false
+35;9;lo thuong mot nguoi;nguyen dinh vu;nguyen dinh vu;lo thuong mot nguoi single;true
+35;10;suyt nua thi chuyen di cua thanh xuan ost;andiez;andiez;suyt nua thi chuyen di cua thanh xuan ost single;false
+35;11;catena;toc tien touliver;bui cong nam;catena single;true
+35;12;cham day noi dau;erik;mr siro;cham day noi dau single;true
+35;13;sao em no;jaykii;duong khac linhtrang phap;;true
+35;14;roi bo;hoa minzy;vu huy hoang;roi bo single;true
+35;15;thay the;ho gia hung;dong thien duc;thay the single;false
+35;16;vo thuong;karik orange;karik;;false
+35;17;roi nguoi thuong cung hoa nguoi dung;hien ho;rin9;;false
+35;18;u co anh day;tino;tang nhat tue;u co anh day single;false
+35;19;sai;uni5;tung maru;sai single;true
+35;20;tan cung noi nho new version;will han sara;andiez;;false
+35;21;nguoi am phu;osad vrt;osadvrt;;false
+35;22;ket thuc mot cuoc tinh;cao nam thanh;cao nam thanh;ket thuc mot cuoc tinh single;false
+35;23;dep nhat la em;soobin hoang son jiyeon;krazy parkeddy s park;;false
+35;24;cu lac;osad turn hirn;osad;;false
+35;25;cuoc song em on khong;anh tu;vuong anh tu;;false
+35;26;sofar;binz;binz;;false
+35;27;co gai m52;huyr tung viu;huyrtung viu;;false
+35;28;tam su tuoi 30 ong ngoai tuoi 30 ost;trinh thang binh;;;true
+35;29;tap co don;le bao binh;le bao binh;;false
+35;30;nguoi doi thay;cao nam thanh;cao nam thanh;;false
+35;31;ai khoc noi dau nay;bao anh;duc tri;;false
+35;32;hom nay toi buon;phung khanh linh;phung khanh linh;;false
+35;33;yeu thuong ngay do yeu em bat chap ost;soobin hoang son;khoa nguyen;yeu thuong ngay do yeu em bat chap ost single;true
+35;34;vi yeu la nho ong ngoai tuoi 30 ost;han sara;onlycquang hung;;false
+35;35;ngam hoa le roi;chau khai phong;duy cuong;;false
+35;36;yeu duong;osad turn hirn;osad;;false
+35;37;dung ai nhac ve anh ay;tra my idol;mr siro;dung ai nhac ve anh ay single;true
+35;38;vo cung vi anh thuong em;phan duy anh;vo hoai phuc;vo cung vi anh thuong em single;false
+35;39;y em sao;kay tran lang ld;kay tranlang ld;;true
+35;40;minh cuoi nhau di;huynh james pjnboys;huynh jamespjnboys;;false
+36;1;buon khong em;dat g;dat g;;false
+36;2;tan cung noi nho;will;andiez;tan cung noi nho single;true
+36;3;duyen minh lo;huong tram;tu dua;duyen minh lo single;true
+36;4;dung quen ten anh;hoa vinh;dat g;;false
+36;5;gui anh va co ay;huong tram;nguyen hong thuan;gui anh va co ay single;false
+36;6;sai nguoi sai thoi diem;thanh hung;thanh hung;;false
+36;7;dung nhu thoi quen;jaykii sara luu;duong khac linhhoang huy longjaykii;;false
+36;8;yeu roi gao nep gao te ost;tino;tang nhat tue;;false
+36;9;suyt nua thi chuyen di cua thanh xuan ost;andiez;andiez;suyt nua thi chuyen di cua thanh xuan ost single;false
+36;10;lo thuong mot nguoi;nguyen dinh vu;nguyen dinh vu;lo thuong mot nguoi single;true
+36;11;tan cung noi nho new version;will han sara;andiez;;false
+36;12;thay the;ho gia hung;dong thien duc;thay the single;false
+36;13;catena;toc tien touliver;bui cong nam;catena single;true
+36;14;cham day noi dau;erik;mr siro;cham day noi dau single;true
+36;15;sao em no;jaykii;duong khac linhtrang phap;;true
+36;16;roi bo;hoa minzy;vu huy hoang;roi bo single;true
+36;17;roi nguoi thuong cung hoa nguoi dung;hien ho;rin9;;false
+36;18;u co anh day;tino;tang nhat tue;u co anh day single;false
+36;19;vo thuong;karik orange;karik;;false
+36;20;phai the thoi;le bao binh;le bao binh;;false
+36;21;ket thuc mot cuoc tinh;cao nam thanh;cao nam thanh;ket thuc mot cuoc tinh single;false
+36;22;nguoi am phu;osad vrt;osadvrt;;false
+36;23;dep nhat la em;soobin hoang son jiyeon;krazy parkeddy s park;;false
+36;24;cu lac;osad turn hirn;osad;;false
+36;25;sofar;binz;binz;;false
+36;26;cuoc song em on khong;anh tu;vuong anh tu;;false
+36;27;co gai m52;huyr tung viu;huyrtung viu;;false
+36;28;tam su tuoi 30 ong ngoai tuoi 30 ost;trinh thang binh;;;true
+36;29;tap co don;le bao binh;le bao binh;;false
+36;30;em oi em dau roi;chu bin;dinh tung huy;;false
+36;31;nguoi doi thay;cao nam thanh;cao nam thanh;;false
+36;32;ai khoc noi dau nay;bao anh;duc tri;;false
+36;33;hom nay toi buon;phung khanh linh;phung khanh linh;;false
+36;34;vo cung vi anh thuong em;phan duy anh;vo hoai phuc;vo cung vi anh thuong em single;false
+36;35;yeu thuong ngay do yeu em bat chap ost;soobin hoang son;khoa nguyen;yeu thuong ngay do yeu em bat chap ost single;true
+36;36;vi yeu la nho ong ngoai tuoi 30 ost;han sara;onlycquang hung;;false
+36;37;yeu duong;osad turn hirn;osad;;false
+36;38;ngam hoa le roi;chau khai phong;duy cuong;;false
+36;39;dung ai nhac ve anh ay;tra my idol;mr siro;dung ai nhac ve anh ay single;true
+36;40;y em sao;kay tran lang ld;kay tranlang ld;;true
+37;1;buon khong em;dat g;dat g;;false
+37;2;tan cung noi nho;will;andiez;tan cung noi nho single;true
+37;3;duyen minh lo;huong tram;tu dua;duyen minh lo single;true
+37;4;dung quen ten anh;hoa vinh;dat g;;false
+37;5;gui anh va co ay;huong tram;nguyen hong thuan;gui anh va co ay single;false
+37;6;sai nguoi sai thoi diem;thanh hung;thanh hung;;false
+37;7;dung nhu thoi quen;jaykii sara luu;duong khac linhhoang huy longjaykii;;false
+37;8;suyt nua thi chuyen di cua thanh xuan ost;andiez;andiez;suyt nua thi chuyen di cua thanh xuan ost single;false
+37;9;thay the;ho gia hung;dong thien duc;thay the single;false
+37;10;yeu roi gao nep gao te ost;tino;tang nhat tue;;false
+37;11;lo thuong mot nguoi;nguyen dinh vu;nguyen dinh vu;lo thuong mot nguoi single;true
+37;12;tan cung noi nho new version;will han sara;andiez;;false
+37;13;u co anh day;tino;tang nhat tue;u co anh day single;false
+37;14;minh chia tay di;erik;shin hyun wookrazy park;;false
+37;15;cham day noi dau;erik;mr siro;cham day noi dau single;true
+37;16;phai the thoi;le bao binh;le bao binh;;false
+37;17;sao em no;jaykii;duong khac linhtrang phap;;true
+37;18;thanh xuan;da lab;da lab;;false
+37;19;catena;toc tien touliver;bui cong nam;catena single;true
+37;20;roi bo;hoa minzy;vu huy hoang;roi bo single;true
+37;21;em hanh phuc chu;nguyen dinh vu;bao thach;em hanh phuc chu single;false
+37;22;roi nguoi thuong cung hoa nguoi dung;hien ho;rin9;;false
+37;23;dep nhat la em;soobin hoang son jiyeon;krazy parkeddy s park;;false
+37;24;vo thuong;karik orange;karik;;false
+37;25;ket thuc mot cuoc tinh;cao nam thanh;cao nam thanh;ket thuc mot cuoc tinh single;false
+37;26;ai la ai cua ai;trinh thang binh;trinh thang binhnguyen van trung;;false
+37;27;nguoi am phu;osad vrt;osadvrt;;false
+37;28;cu lac;osad turn hirn;osad;;false
+37;29;sofar;binz;binz;;false
+37;30;phia sau em;kay tran binz;kay tranbinz;;false
+37;31;cuoc song em on khong;anh tu;vuong anh tu;;false
+37;32;tam su tuoi 30 ong ngoai tuoi 30 ost;trinh thang binh;;;true
+37;33;co gai m52;huyr tung viu;huyrtung viu;;false
+37;34;em oi em dau roi;chu bin;dinh tung huy;;false
+37;35;nguoi doi thay;cao nam thanh;cao nam thanh;;false
+37;36;vi yeu la nho ong ngoai tuoi 30 ost;han sara;onlycquang hung;;false
+37;37;ai khoc noi dau nay;bao anh;duc tri;;false
+37;38;vo cung vi anh thuong em;phan duy anh;vo hoai phuc;vo cung vi anh thuong em single;false
+37;39;hom nay toi buon;phung khanh linh;phung khanh linh;;false
+37;40;yeu thuong ngay do yeu em bat chap ost;soobin hoang son;khoa nguyen;yeu thuong ngay do yeu em bat chap ost single;true
+38;1;tan cung noi nho;will;andiez;tan cung noi nho single;true
+38;2;buon khong em;dat g;dat g;;false
+38;3;duyen minh lo;huong tram;tu dua;duyen minh lo single;true
+38;4;dung quen ten anh;hoa vinh;dat g;;false
+38;5;chuyen tinh toi;kay tran nguyen khoa kass;nguyen khoa;chuyen tinh toi single;true
+38;6;suyt nua thi chuyen di cua thanh xuan ost;andiez;andiez;suyt nua thi chuyen di cua thanh xuan ost single;false
+38;7;gui anh va co ay;huong tram;nguyen hong thuan;gui anh va co ay single;false
+38;8;sai nguoi sai thoi diem;thanh hung;thanh hung;;false
+38;9;thay the;ho gia hung;dong thien duc;thay the single;false
+38;10;tan cung noi nho new version;will han sara;andiez;;false
+38;11;dung nhu thoi quen;jaykii sara luu;duong khac linhhoang huy longjaykii;;false
+38;12;yeu roi gao nep gao te ost;tino;tang nhat tue;;false
+38;13;u co anh day;tino;tang nhat tue;u co anh day single;false
+38;14;lo thuong mot nguoi;nguyen dinh vu;nguyen dinh vu;lo thuong mot nguoi single;true
+38;15;don coi tinh toi;chau khai phong;duy cuong;don coi tinh toi single;true
+38;16;cham day noi dau;erik;mr siro;cham day noi dau single;true
+38;17;sao em no;jaykii;duong khac linhtrang phap;;true
+38;18;thanh xuan;da lab;da lab;;false
+38;19;phai the thoi;le bao binh;le bao binh;;false
+38;20;minh chia tay di;erik;shin hyun wookrazy park;;false
+38;21;catena;toc tien touliver;bui cong nam;catena single;true
+38;22;ai la ai cua ai;trinh thang binh;trinh thang binhnguyen van trung;;false
+38;23;dep nhat la em;soobin hoang son jiyeon;krazy parkeddy s park;;false
+38;24;roi bo;hoa minzy;vu huy hoang;roi bo single;true
+38;25;em hanh phuc chu;nguyen dinh vu;bao thach;em hanh phuc chu single;false
+38;26;roi nguoi thuong cung hoa nguoi dung;hien ho;rin9;;false
+38;27;do em biet anh dang nghi gi;den justatee bien;den;do em biet anh dang nghi gi single;false
+38;28;vo thuong;karik orange;karik;;false
+38;29;con yeu dau ai roi di;duc phuc;nguyen hong thuan;con yeu dau ai roi di single;true
+38;30;phia sau em;kay tran binz;kay tranbinz;;false
+38;31;ket thuc mot cuoc tinh;cao nam thanh;cao nam thanh;ket thuc mot cuoc tinh single;false
+38;32;nguoi am phu;osad vrt;osadvrt;;false
+38;33;cu lac;osad turn hirn;osad;;false
+38;34;sofar;binz;binz;;false
+38;35;cuoc song em on khong;anh tu;vuong anh tu;;false
+38;36;tam su tuoi 30 ong ngoai tuoi 30 ost;trinh thang binh;;;true
+38;37;co gai m52;huyr tung viu;huyrtung viu;;false
+38;38;em oi em dau roi;chu bin;dinh tung huy;;false
+38;39;tap co don;le bao binh;le bao binh;;false
+38;40;vi yeu la nho ong ngoai tuoi 30 ost;han sara;onlycquang hung;;false
+39;1;cang niu giu cang de mat;mr siro;mr siro;;false
+39;2;tan cung noi nho;will;andiez;tan cung noi nho single;true
+39;3;con yeu dau ai roi di;duc phuc;nguyen hong thuan;con yeu dau ai roi di single;true
+39;4;buon khong em;dat g;dat g;;false
+39;5;chuyen tinh toi;kay tran nguyen khoa kass;nguyen khoa;chuyen tinh toi single;true
+39;6;dung quen ten anh;hoa vinh;dat g;;false
+39;7;duyen minh lo;huong tram;tu dua;duyen minh lo single;true
+39;8;suyt nua thi chuyen di cua thanh xuan ost;andiez;andiez;suyt nua thi chuyen di cua thanh xuan ost single;false
+39;9;thay the;ho gia hung;dong thien duc;thay the single;false
+39;10;tan cung noi nho new version;will han sara;andiez;;false
+39;11;sai nguoi sai thoi diem;thanh hung;thanh hung;;false
+39;12;gui anh va co ay;huong tram;nguyen hong thuan;gui anh va co ay single;false
+39;13;u co anh day;tino;tang nhat tue;u co anh day single;false
+39;14;dung nhu thoi quen;jaykii sara luu;duong khac linhhoang huy longjaykii;;false
+39;15;lo thuong mot nguoi;nguyen dinh vu;nguyen dinh vu;lo thuong mot nguoi single;true
+39;16;don coi tinh toi;chau khai phong;duy cuong;don coi tinh toi single;true
+39;17;yeu roi gao nep gao te ost;tino;tang nhat tue;;false
+39;18;thanh xuan;da lab;da lab;;false
+39;19;cham day noi dau;erik;mr siro;cham day noi dau single;true
+39;20;sao em no;jaykii;duong khac linhtrang phap;;true
+39;21;phai the thoi;le bao binh;le bao binh;;false
+39;22;gia ngay dau dung noi thuong nhau;isaac;ngoc dolil;gia ngay dau dung noi thuong nhau single;false
+39;23;minh chia tay di;erik;shin hyun wookrazy park;;false
+39;24;do em biet anh dang nghi gi;den justatee bien;den;do em biet anh dang nghi gi single;false
+39;25;catena;toc tien touliver;bui cong nam;catena single;true
+39;26;roi bo;hoa minzy;vu huy hoang;roi bo single;true
+39;27;roi nguoi thuong cung hoa nguoi dung;hien ho;rin9;;false
+39;28;vo thuong;karik orange;karik;;false
+39;29;dep nhat la em;soobin hoang son jiyeon;krazy parkeddy s park;;false
+39;30;phia sau em;kay tran binz;kay tranbinz;;false
+39;31;ket thuc mot cuoc tinh;cao nam thanh;cao nam thanh;ket thuc mot cuoc tinh single;false
+39;32;nguoi am phu;osad vrt;osadvrt;;false
+39;33;cuoc song em on khong;anh tu;vuong anh tu;;false
+39;34;tam su tuoi 30 ong ngoai tuoi 30 ost;trinh thang binh;;;true
+39;35;co gai m52;huyr tung viu;huyrtung viu;;false
+39;36;vo cung vi anh thuong em;phan duy anh;vo hoai phuc;vo cung vi anh thuong em single;false
+39;37;vi yeu la nho ong ngoai tuoi 30 ost;han sara;onlycquang hung;;false
+39;38;nguoi doi thay;cao nam thanh;cao nam thanh;;false
+39;39;ai khoc noi dau nay;bao anh;duc tri;;false
+39;40;yeu thuong ngay do yeu em bat chap ost;soobin hoang son;khoa nguyen;yeu thuong ngay do yeu em bat chap ost single;true
+40;1;cang niu giu cang de mat;mr siro;mr siro;;false
+40;2;chuyen tinh toi;kay tran nguyen khoa kass;nguyen khoa;chuyen tinh toi single;true
+40;3;tan cung noi nho;will;andiez;tan cung noi nho single;true
+40;4;con yeu dau ai roi di;duc phuc;nguyen hong thuan;con yeu dau ai roi di single;true
+40;5;buon khong em;dat g;dat g;;false
+40;6;dung quen ten anh;hoa vinh;dat g;;false
+40;7;duyen minh lo;huong tram;tu dua;duyen minh lo single;true
+40;8;suyt nua thi chuyen di cua thanh xuan ost;andiez;andiez;suyt nua thi chuyen di cua thanh xuan ost single;false
+40;9;thay the;ho gia hung;dong thien duc;thay the single;false
+40;10;tan cung noi nho new version;will han sara;andiez;;false
+40;11;thanh xuan;da lab;da lab;;false
+40;12;sai nguoi sai thoi diem;thanh hung;thanh hung;;false
+40;13;hongkong1 official version;nguyen trong tai san ji double x;nguyen trong taisan jidouble x;;false
+40;14;dung nhu thoi quen;jaykii sara luu;duong khac linhhoang huy longjaykii;;false
+40;15;lo thuong mot nguoi;nguyen dinh vu;nguyen dinh vu;lo thuong mot nguoi single;true
+40;16;gui anh va co ay;huong tram;nguyen hong thuan;gui anh va co ay single;false
+40;17;don coi tinh toi;chau khai phong;duy cuong;don coi tinh toi single;true
+40;18;u co anh day;tino;tang nhat tue;u co anh day single;false
+40;19;yeu roi gao nep gao te ost;tino;tang nhat tue;;false
+40;20;cham day noi dau;erik;mr siro;cham day noi dau single;true
+40;21;sao em no;jaykii;duong khac linhtrang phap;;true
+40;22;phai the thoi;le bao binh;le bao binh;;false
+40;23;roi bo;hoa minzy;vu huy hoang;roi bo single;true
+40;24;do em biet anh dang nghi gi;den justatee bien;den;do em biet anh dang nghi gi single;false
+40;25;catena;toc tien touliver;bui cong nam;catena single;true
+40;26;minh chia tay di;erik;shin hyun wookrazy park;;false
+40;27;roi nguoi thuong cung hoa nguoi dung;hien ho;rin9;;false
+40;28;dep nhat la em;soobin hoang son jiyeon;krazy parkeddy s park;;false
+40;29;ket thuc mot cuoc tinh;cao nam thanh;cao nam thanh;ket thuc mot cuoc tinh single;false
+40;30;nguoi am phu;osad vrt;osadvrt;;false
+40;31;vo thuong;karik orange;karik;;false
+40;32;cuoc song em on khong;anh tu;vuong anh tu;;false
+40;33;tam su tuoi 30 ong ngoai tuoi 30 ost;trinh thang binh;;;true
+40;34;vo cung vi anh thuong em;phan duy anh;vo hoai phuc;vo cung vi anh thuong em single;false
+40;35;phia sau em;kay tran binz;kay tranbinz;;false
+40;36;co gai m52;huyr tung viu;huyrtung viu;;false
+40;37;vi yeu la nho ong ngoai tuoi 30 ost;han sara;onlycquang hung;;false
+40;38;nguoi doi thay;cao nam thanh;cao nam thanh;;false
+40;39;ai khoc noi dau nay;bao anh;duc tri;;false
+40;40;yeu thuong ngay do yeu em bat chap ost;soobin hoang son;khoa nguyen;yeu thuong ngay do yeu em bat chap ost single;true
+41;1;cang niu giu cang de mat;mr siro;mr siro;;false
+41;2;hongkong1 official version;nguyen trong tai san ji double x;nguyen trong taisan jidouble x;;false
+41;3;chuyen tinh toi;kay tran nguyen khoa kass;nguyen khoa;chuyen tinh toi single;true
+41;4;con yeu dau ai roi di;duc phuc;nguyen hong thuan;con yeu dau ai roi di single;true
+41;5;tan cung noi nho;will;andiez;tan cung noi nho single;true
+41;6;buon khong em;dat g;dat g;;false
+41;7;dung quen ten anh;hoa vinh;dat g;;false
+41;8;suyt nua thi chuyen di cua thanh xuan ost;andiez;andiez;suyt nua thi chuyen di cua thanh xuan ost single;false
+41;9;duyen minh lo;huong tram;tu dua;duyen minh lo single;true
+41;10;tan cung noi nho new version;will han sara;andiez;;false
+41;11;thay the;ho gia hung;dong thien duc;thay the single;false
+41;12;thanh xuan;da lab;da lab;;false
+41;13;sai nguoi sai thoi diem;thanh hung;thanh hung;;false
+41;14;dung nhu thoi quen;jaykii sara luu;duong khac linhhoang huy longjaykii;;false
+41;15;lo thuong mot nguoi;nguyen dinh vu;nguyen dinh vu;lo thuong mot nguoi single;true
+41;16;gui anh va co ay;huong tram;nguyen hong thuan;gui anh va co ay single;false
+41;17;don coi tinh toi;chau khai phong;duy cuong;don coi tinh toi single;true
+41;18;yeu roi gao nep gao te ost;tino;tang nhat tue;;false
+41;19;thang dien;justatee phuong ly;virussjustatee;;true
+41;20;sao em no;jaykii;duong khac linhtrang phap;;true
+41;21;yeu don phuong;onlyc karik;onlyckarik;;false
+41;22;cham day noi dau;erik;mr siro;cham day noi dau single;true
+41;23;roi bo;hoa minzy;vu huy hoang;roi bo single;true
+41;24;phai the thoi;le bao binh;le bao binh;;false
+41;25;u co anh day;tino;tang nhat tue;u co anh day single;false
+41;26;roi nguoi thuong cung hoa nguoi dung;hien ho;rin9;;false
+41;27;catena;toc tien touliver;bui cong nam;catena single;true
+41;28;ket thuc mot cuoc tinh;cao nam thanh;cao nam thanh;ket thuc mot cuoc tinh single;false
+41;29;do em biet anh dang nghi gi;den justatee bien;den;do em biet anh dang nghi gi single;false
+41;30;dep nhat la em;soobin hoang son jiyeon;krazy parkeddy s park;;false
+41;31;nguoi am phu;osad vrt;osadvrt;;false
+41;32;vo thuong;karik orange;karik;;false
+41;33;vo cung vi anh thuong em;phan duy anh;vo hoai phuc;vo cung vi anh thuong em single;false
+41;34;cuoc song em on khong;anh tu;vuong anh tu;;false
+41;35;tam su tuoi 30 ong ngoai tuoi 30 ost;trinh thang binh;;;true
+41;36;co gai m52;huyr tung viu;huyrtung viu;;false
+41;37;nguoi doi thay;cao nam thanh;cao nam thanh;;false
+41;38;vi yeu la nho ong ngoai tuoi 30 ost;han sara;onlycquang hung;;false
+41;39;ai khoc noi dau nay;bao anh;duc tri;;false
+41;40;yeu thuong ngay do yeu em bat chap ost;soobin hoang son;khoa nguyen;yeu thuong ngay do yeu em bat chap ost single;true
+42;1;thang dien;justatee phuong ly;virussjustatee;;true
+42;2;cang niu giu cang de mat;mr siro;mr siro;;false
+42;3;hongkong1 official version;nguyen trong tai san ji double x;nguyen trong taisan jidouble x;;false
+42;4;chuyen tinh toi;kay tran nguyen khoa kass;nguyen khoa;chuyen tinh toi single;true
+42;5;tan cung noi nho;will;andiez;tan cung noi nho single;true
+42;6;con yeu dau ai roi di;duc phuc;nguyen hong thuan;con yeu dau ai roi di single;true
+42;7;buon khong em;dat g;dat g;;false
+42;8;vo tinh;xesi hoaprox;xesi;vo tinh single;false
+42;9;suyt nua thi chuyen di cua thanh xuan ost;andiez;andiez;suyt nua thi chuyen di cua thanh xuan ost single;false
+42;10;yeu don phuong;onlyc karik;onlyckarik;;false
+42;11;dung quen ten anh;hoa vinh;dat g;;false
+42;12;duyen minh lo;huong tram;tu dua;duyen minh lo single;true
+42;13;thay the;ho gia hung;dong thien duc;thay the single;false
+42;14;thanh xuan;da lab;da lab;;false
+42;15;tan cung noi nho new version;will han sara;andiez;;false
+42;16;sai nguoi sai thoi diem;thanh hung;thanh hung;;false
+42;17;nguoi ta;si thanh;huynh quoc huy;;false
+42;18;dung nhu thoi quen;jaykii sara luu;duong khac linhhoang huy longjaykii;;false
+42;19;dung noi toi dien;hien ho;phuc bo;;false
+42;20;don coi tinh toi;chau khai phong;duy cuong;don coi tinh toi single;true
+42;21;lo thuong mot nguoi;nguyen dinh vu;nguyen dinh vu;lo thuong mot nguoi single;true
+42;22;nguoi am phu edm version;osad khanh vy;osad;nguoi am phu edm version single;false
+42;23;nhu loi don;bao anh;khac hung;nhu loi don single;false
+42;24;yeu roi gao nep gao te ost;tino;tang nhat tue;;false
+42;25;gui anh va co ay;huong tram;nguyen hong thuan;gui anh va co ay single;false
+42;26;sao em no;jaykii;duong khac linhtrang phap;;true
+42;27;cham day noi dau;erik;mr siro;cham day noi dau single;true
+42;28;roi nguoi thuong cung hoa nguoi dung;hien ho;rin9;;false
+42;29;phai the thoi;le bao binh;le bao binh;;false
+42;30;roi bo;hoa minzy;vu huy hoang;roi bo single;true
+42;31;ket thuc mot cuoc tinh;cao nam thanh;cao nam thanh;ket thuc mot cuoc tinh single;false
+42;32;catena;toc tien touliver;bui cong nam;catena single;true
+42;33;nguoi am phu;osad vrt;osadvrt;;false
+42;34;vo thuong;karik orange;karik;;false
+42;35;u co anh day;tino;tang nhat tue;u co anh day single;false
+42;36;dep nhat la em;soobin hoang son jiyeon;krazy parkeddy s park;;false
+42;37;vo cung vi anh thuong em;phan duy anh;vo hoai phuc;vo cung vi anh thuong em single;false
+42;38;cuoc song em on khong;anh tu;vuong anh tu;;false
+42;39;tam su tuoi 30 ong ngoai tuoi 30 ost;trinh thang binh;;;true
+42;40;co gai m52;huyr tung viu;huyrtung viu;;false
+43;1;thang dien;justatee phuong ly;virussjustatee;;true
+43;2;hongkong1 official version;nguyen trong tai san ji double x;nguyen trong taisan jidouble x;;false
+43;3;vo tinh;xesi hoaprox;xesi;vo tinh single;false
+43;4;cang niu giu cang de mat;mr siro;mr siro;;false
+43;5;chuyen tinh toi;kay tran nguyen khoa kass;nguyen khoa;chuyen tinh toi single;true
+43;6;dung noi toi dien;hien ho;phuc bo;;false
+43;7;tan cung noi nho;will;andiez;tan cung noi nho single;true
+43;8;con yeu dau ai roi di;duc phuc;nguyen hong thuan;con yeu dau ai roi di single;true
+43;9;buon khong em;dat g;dat g;;false
+43;10;yeu don phuong;onlyc karik;onlyckarik;;false
+43;11;mai mai se het vao ngay mai;andiez;andiez;;false
+43;12;dung quen ten anh;hoa vinh;dat g;;false
+43;13;suyt nua thi chuyen di cua thanh xuan ost;andiez;andiez;suyt nua thi chuyen di cua thanh xuan ost single;false
+43;14;thay the;ho gia hung;dong thien duc;thay the single;false
+43;15;duyen minh lo;huong tram;tu dua;duyen minh lo single;true
+43;16;nguoi ta;si thanh;huynh quoc huy;;false
+43;17;thanh xuan;da lab;da lab;;false
+43;18;nhu loi don;bao anh;khac hung;nhu loi don single;false
+43;19;sai nguoi sai thoi diem;thanh hung;thanh hung;;false
+43;20;tam tu em giau;wendy thao;wendy thao;tam tu em giau single;false
+43;21;dung nhu thoi quen;jaykii sara luu;duong khac linhhoang huy longjaykii;;false
+43;22;tan cung noi nho new version;will han sara;andiez;;false
+43;23;don coi tinh toi;chau khai phong;duy cuong;don coi tinh toi single;true
+43;24;lo thuong mot nguoi;nguyen dinh vu;nguyen dinh vu;lo thuong mot nguoi single;true
+43;25;em ngu chua;trinh thang binh osad;trinh thang binhosad;;false
+43;26;yeu roi gao nep gao te ost;tino;tang nhat tue;;false
+43;27;sao em no;jaykii;duong khac linhtrang phap;;true
+43;28;roi nguoi thuong cung hoa nguoi dung;hien ho;rin9;;false
+43;29;gui anh va co ay;huong tram;nguyen hong thuan;gui anh va co ay single;false
+43;30;cham day noi dau;erik;mr siro;cham day noi dau single;true
+43;31;roi bo;hoa minzy;vu huy hoang;roi bo single;true
+43;32;vo cung vi anh thuong em;phan duy anh;vo hoai phuc;vo cung vi anh thuong em single;false
+43;33;ket thuc mot cuoc tinh;cao nam thanh;cao nam thanh;ket thuc mot cuoc tinh single;false
+43;34;catena;toc tien touliver;bui cong nam;catena single;true
+43;35;nguoi am phu;osad vrt;osadvrt;;false
+43;36;vo thuong;karik orange;karik;;false
+43;37;co mot noi nhu the;phan manh quynh;phan manh quynh;co mot noi nhu the single;false
+43;38;dep nhat la em;soobin hoang son jiyeon;krazy parkeddy s park;;false
+43;39;cuoc song em on khong;anh tu;vuong anh tu;;false
+43;40;tam su tuoi 30 ong ngoai tuoi 30 ost;trinh thang binh;;;true
+44;1;vo tinh;xesi hoaprox;xesi;vo tinh single;false
+44;2;thang dien;justatee phuong ly;virussjustatee;;true
+44;3;cang niu giu cang de mat;mr siro;mr siro;;false
+44;4;hongkong1 official version;nguyen trong tai san ji double x;nguyen trong taisan jidouble x;;false
+44;5;chap nhan;hoa minzy;an trinh;chap nhan single;true
+44;6;em khong the;tien tien touliver;tien tien;em khong the single;true
+44;7;nguoi la thoang qua;khoi my;bao thach;nguoi la thoang qua single;false
+44;8;chuyen tinh toi;kay tran nguyen khoa kass;nguyen khoa;chuyen tinh toi single;true
+44;9;dung noi toi dien;hien ho;phuc bo;;false
+44;10;tan cung noi nho;will;andiez;tan cung noi nho single;true
+44;11;em ngu chua;trinh thang binh osad;trinh thang binhosad;;false
+44;12;mai mai se het vao ngay mai;andiez;andiez;;false
+44;13;con yeu dau ai roi di;duc phuc;nguyen hong thuan;con yeu dau ai roi di single;true
+44;14;buon khong em;dat g;dat g;;false
+44;15;con la gi cua nhau;chau khai phong;thanh hung;;false
+44;16;yeu don phuong;onlyc karik;onlyckarik;;false
+44;17;dung quen ten anh;hoa vinh;dat g;;false
+44;18;suyt nua thi chuyen di cua thanh xuan ost;andiez;andiez;suyt nua thi chuyen di cua thanh xuan ost single;false
+44;19;nhu loi don;bao anh;khac hung;nhu loi don single;false
+44;20;thay the;ho gia hung;dong thien duc;thay the single;false
+44;21;duyen minh lo;huong tram;tu dua;duyen minh lo single;true
+44;22;sai nguoi sai thoi diem;thanh hung;thanh hung;;false
+44;23;nguoi ta;si thanh;huynh quoc huy;;false
+44;24;dung nhu thoi quen;jaykii sara luu;duong khac linhhoang huy longjaykii;;false
+44;25;thanh xuan;da lab;da lab;;false
+44;26;tam tu em giau;wendy thao;wendy thao;tam tu em giau single;false
+44;27;don coi tinh toi;chau khai phong;duy cuong;don coi tinh toi single;true
+44;28;tan cung noi nho new version;will han sara;andiez;;false
+44;29;lo thuong mot nguoi;nguyen dinh vu;nguyen dinh vu;lo thuong mot nguoi single;true
+44;30;sao em no;jaykii;duong khac linhtrang phap;;true
+44;31;yeu roi gao nep gao te ost;tino;tang nhat tue;;false
+44;32;roi nguoi thuong cung hoa nguoi dung;hien ho;rin9;;false
+44;33;cham day noi dau;erik;mr siro;cham day noi dau single;true
+44;34;gui anh va co ay;huong tram;nguyen hong thuan;gui anh va co ay single;false
+44;35;roi bo;hoa minzy;vu huy hoang;roi bo single;true
+44;36;vo cung vi anh thuong em;phan duy anh;vo hoai phuc;vo cung vi anh thuong em single;false
+44;37;co mot noi nhu the;phan manh quynh;phan manh quynh;co mot noi nhu the single;false
+44;38;nguoi am phu;osad vrt;osadvrt;;false
+44;39;ket thuc mot cuoc tinh;cao nam thanh;cao nam thanh;ket thuc mot cuoc tinh single;false
+44;40;catena;toc tien touliver;bui cong nam;catena single;true
+45;1;vo tinh;xesi hoaprox;xesi;vo tinh single;false
+45;2;em khong the;tien tien touliver;tien tien;em khong the single;true
+45;3;thang dien;justatee phuong ly;virussjustatee;;true
+45;4;hongkong1 official version;nguyen trong tai san ji double x;nguyen trong taisan jidouble x;;false
+45;5;chap nhan;hoa minzy;an trinh;chap nhan single;true
+45;6;cang niu giu cang de mat;mr siro;mr siro;;false
+45;7;nguoi la thoang qua;khoi my;bao thach;nguoi la thoang qua single;false
+45;8;chuyen tinh toi;kay tran nguyen khoa kass;nguyen khoa;chuyen tinh toi single;true
+45;9;dung noi toi dien;hien ho;phuc bo;;false
+45;10;mai mai se het vao ngay mai;andiez;andiez;;false
+45;11;tan cung noi nho;will;andiez;tan cung noi nho single;true
+45;12;buon khong em;dat g;dat g;;false
+45;13;con la gi cua nhau;chau khai phong;thanh hung;;false
+45;14;con yeu dau ai roi di;duc phuc;nguyen hong thuan;con yeu dau ai roi di single;true
+45;15;em ngu chua;trinh thang binh osad;trinh thang binhosad;;false
+45;16;yeu don phuong;onlyc karik;onlyckarik;;false
+45;17;dung quen ten anh;hoa vinh;dat g;;false
+45;18;thay the;ho gia hung;dong thien duc;thay the single;false
+45;19;suyt nua thi chuyen di cua thanh xuan ost;andiez;andiez;suyt nua thi chuyen di cua thanh xuan ost single;false
+45;20;duyen minh lo;huong tram;tu dua;duyen minh lo single;true
+45;21;nhu loi don;bao anh;khac hung;nhu loi don single;false
+45;22;tam tu em giau;wendy thao;wendy thao;tam tu em giau single;false
+45;23;thanh xuan;da lab;da lab;;false
+45;24;sai nguoi sai thoi diem;thanh hung;thanh hung;;false
+45;25;dung nhu thoi quen;jaykii sara luu;duong khac linhhoang huy longjaykii;;false
+45;26;don coi tinh toi;chau khai phong;duy cuong;don coi tinh toi single;true
+45;27;nguoi ta;si thanh;huynh quoc huy;;false
+45;28;tan cung noi nho new version;will han sara;andiez;;false
+45;29;lo thuong mot nguoi;nguyen dinh vu;nguyen dinh vu;lo thuong mot nguoi single;true
+45;30;yeu mot nguoi sau anh;gin tuan kiet;andiez;yeu mot nguoi sau anh single;true
+45;31;tat ca se thay em;pham quynh anh;hamlet truong;tat ca se thay em single;true
+45;32;sao em no;jaykii;duong khac linhtrang phap;;true
+45;33;yeu roi gao nep gao te ost;tino;tang nhat tue;;false
+45;34;roi nguoi thuong cung hoa nguoi dung;hien ho;rin9;;false
+45;35;cham day noi dau;erik;mr siro;cham day noi dau single;true
+45;36;gui anh va co ay;huong tram;nguyen hong thuan;gui anh va co ay single;false
+45;37;roi bo;hoa minzy;vu huy hoang;roi bo single;true
+45;38;vo cung vi anh thuong em;phan duy anh;vo hoai phuc;vo cung vi anh thuong em single;false
+45;39;co mot noi nhu the;phan manh quynh;phan manh quynh;co mot noi nhu the single;false
+45;40;ket thuc mot cuoc tinh;cao nam thanh;cao nam thanh;ket thuc mot cuoc tinh single;false
+46;1;anh dang o dau day anh;huong giang;andiez;anh dang o dau day anh single;true
+46;2;vo tinh;xesi hoaprox;xesi;vo tinh single;false
+46;3;em khong the;tien tien touliver;tien tien;em khong the single;true
+46;4;hongkong1 official version;nguyen trong tai san ji double x;nguyen trong taisan jidouble x;;false
+46;5;thang dien;justatee phuong ly;virussjustatee;;true
+46;6;cang niu giu cang de mat;mr siro;mr siro;;false
+46;7;chap nhan;hoa minzy;an trinh;chap nhan single;true
+46;8;mau nuoc mat;nguyen tran trung quan;nguyen thuong;mau nuoc mat single;true
+46;9;nguoi la thoang qua;khoi my;bao thach;nguoi la thoang qua single;false
+46;10;chuyen tinh toi;kay tran nguyen khoa kass;nguyen khoa;chuyen tinh toi single;true
+46;11;dung noi toi dien;hien ho;phuc bo;;false
+46;12;con la gi cua nhau;chau khai phong;thanh hung;;false
+46;13;tan cung noi nho;will;andiez;tan cung noi nho single;true
+46;14;mai mai se het vao ngay mai;andiez;andiez;;false
+46;15;buon khong em;dat g;dat g;;false
+46;16;em ngu chua;trinh thang binh osad;trinh thang binhosad;;false
+46;17;con yeu dau ai roi di;duc phuc;nguyen hong thuan;con yeu dau ai roi di single;true
+46;18;yeu don phuong;onlyc karik;onlyckarik;;false
+46;19;nhu loi don;bao anh;khac hung;nhu loi don single;false
+46;20;dung quen ten anh;hoa vinh;dat g;;false
+46;21;duyen minh lo;huong tram;tu dua;duyen minh lo single;true
+46;22;suyt nua thi chuyen di cua thanh xuan ost;andiez;andiez;suyt nua thi chuyen di cua thanh xuan ost single;false
+46;23;thay the;ho gia hung;dong thien duc;thay the single;false
+46;24;tam tu em giau;wendy thao;wendy thao;tam tu em giau single;false
+46;25;yeu mot nguoi sau anh;gin tuan kiet;andiez;yeu mot nguoi sau anh single;true
+46;26;nguoi ta;si thanh;huynh quoc huy;;false
+46;27;thanh xuan;da lab;da lab;;false
+46;28;dung nhu thoi quen;jaykii sara luu;duong khac linhhoang huy longjaykii;;false
+46;29;sai nguoi sai thoi diem;thanh hung;thanh hung;;false
+46;30;lo thuong mot nguoi;nguyen dinh vu;nguyen dinh vu;lo thuong mot nguoi single;true
+46;31;tan cung noi nho new version;will han sara;andiez;;false
+46;32;don coi tinh toi;chau khai phong;duy cuong;don coi tinh toi single;true
+46;33;sao em no;jaykii;duong khac linhtrang phap;;true
+46;34;vo cung vi anh thuong em;phan duy anh;vo hoai phuc;vo cung vi anh thuong em single;false
+46;35;co mot noi nhu the;phan manh quynh;phan manh quynh;co mot noi nhu the single;false
+46;36;roi nguoi thuong cung hoa nguoi dung;hien ho;rin9;;false
+46;37;yeu roi gao nep gao te ost;tino;tang nhat tue;;false
+46;38;tat ca se thay em;pham quynh anh;hamlet truong;tat ca se thay em single;true
+46;39;cham day noi dau;erik;mr siro;cham day noi dau single;true
+46;40;gui anh va co ay;huong tram;nguyen hong thuan;gui anh va co ay single;false
